@@ -14,3 +14,7 @@
 10. Enjoy.
 
 _Note: once you open Zwift on your computer, the workout will be synced across all your platforms (like iPad, etc.)_
+
+_Also note: This will display any ramps in power as warmups or cool downs_
+
+_Also note: This will not display any instructional text from TrainerRoad_
